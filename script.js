@@ -67,7 +67,7 @@ readBtn.addEventListener('click', () => {
 let Game = document.querySelector('.game');
 
 Game.addEventListener('click', () => {
-    window.location.href = 'https://6851296d7e56565284c65386--ornate-monstera-0813a3.netlify.app/';
+    window.location.href = 'https://kumaripooja95.github.io/Game/';
 });
 
 
@@ -81,7 +81,7 @@ noteSites.addEventListener('click', () => {
 let Todolist = document.querySelector('.list');
 
 Todolist.addEventListener('click', () => {
-    window.location.href = "https://685123dce5d59a4346e7d260--cute-tulumba-3fce1c.netlify.app/";
+    window.location.href = "https://kumaripooja95.github.io/Todo-web/";
 });
 
 
