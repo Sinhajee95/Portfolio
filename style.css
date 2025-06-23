@@ -611,13 +611,20 @@ span{
     margin-top: 12rem;
     padding: 5px 10px;
     transition:ease-in-out .6s;
-
   }
+    h4 .text-blue{
+  font-family: serif
+}
 }
 
-h4.text-blue{
+h4 .text-blue{
     font-size: x-large;
+    font-family: serif;
 }
 .text-blue{
     color: #00ffff;
+    font-family: serif;
+}
+h3 {
+    font-family: serif;
 }
