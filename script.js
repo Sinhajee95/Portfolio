@@ -100,9 +100,9 @@ Weather.addEventListener('click', () => {
 });
 
 
-let calculator = document.querySelector('.calculator');
+let contactForm = document.querySelector('.contactform');
 
-calculator.addEventListener('click', () => {
+contactForm.addEventListener('click', () => {
     window.location.href = 'https://simple-calculator-app-react.netlify.app';
 });
 
