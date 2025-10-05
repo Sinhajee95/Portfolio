@@ -67,7 +67,7 @@ readBtn.addEventListener('click', () => {
 let Game = document.querySelector('.game');
 
 Game.addEventListener('click', () => {
-    window.location.href = 'https://kumaripooja95.github.io/Game/';
+    window.location.href = 'https://sinhajee95.github.io/Game/';
 });
 
 
@@ -81,7 +81,7 @@ noteSites.addEventListener('click', () => {
 let Todolist = document.querySelector('.list');
 
 Todolist.addEventListener('click', () => {
-    window.location.href = "https://kumaripooja95.github.io/Todo-web/";
+    window.location.href = "https://sinhajee95.github.io/Todo-web/";
 });
 
 
@@ -105,4 +105,5 @@ let contactForm = document.querySelector('.contactform');
 contactForm.addEventListener('click', () => {
     window.location.href = 'https://simple-calculator-app-react.netlify.app';
 });
+
 
